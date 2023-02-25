@@ -26,13 +26,13 @@
     "animation"
   ],
   "author": "harshil <harshilpanchal1998@gmail.com>",
-  "homepage": "https://github.com/harshil19/react-native-progress",
+  "homepage": "https://github.com/harshil19/rn-progress-bars",
   "bugs": {
-    "url": "https://github.com/harshil19/react-native-progress/issues"
+    "url": "https://github.com/harshil19/rn-progress-bars/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harshil19/react-native-progress.git"
+    "url": "git+https://github.com/harshil19/rn-progress-bars.git"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",

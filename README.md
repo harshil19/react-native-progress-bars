@@ -1,16 +1,16 @@
-# react-native-progress
+# rn-progress-bars
 
 
 ## Installation
 
-`$ npm install react-native-progress --save`
+`$ npm install rn-progress-bars --save`
 
 ## Usage
 
-_Note: If you don't want the React Native SVG based components and it's dependencies, do a deep require instead: `import ProgressBar from 'react-native-progress/Bar';`._
+_Note: If you don't want the React Native SVG based components and it's dependencies, do a deep require instead: `import ProgressBar from 'rn-progress-bars/Bar';`._
 
 ```js
-import * as Progress from 'react-native-progress';
+import * as Progress from 'rn-progress-bars';
 
 <Progress.Bar progress={0.3} width={200} />
 <Progress.Pie progress={0.4} size={50} />

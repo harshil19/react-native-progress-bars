@@ -5,14 +5,14 @@
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "postinstall": "DESTINATION='node_modules/react-native-progress' LIB_FILE=`cd .. && echo \\`pwd\\`/\\`npm pack\\`` && (rm -rf $DESTINATION || true) && mkdir $DESTINATION && tar -xvzf $LIB_FILE -C $DESTINATION --strip-components 1 && rm $LIB_FILE",
+    "postinstall": "DESTINATION='node_modules/rn-progress-bars' LIB_FILE=`cd .. && echo \\`pwd\\`/\\`npm pack\\`` && (rm -rf $DESTINATION || true) && mkdir $DESTINATION && tar -xvzf $LIB_FILE -C $DESTINATION --strip-components 1 && rm $LIB_FILE",
     "start": "react-native start",
     "test": "jest"
   },
   "dependencies": {
     "react": "17.0.1",
     "react-native": "0.64.2",
-    "react-native-progress": "*",
+    "rn-progress-bars": "*",
     "react-native-svg": "^12.1.1"
   },
   "devDependencies": {
