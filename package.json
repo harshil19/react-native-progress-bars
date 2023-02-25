@@ -1,5 +1,5 @@
 {
-  "name": "react-native-progress",
+  "name": "rn-progress-bars",
   "version": "1.0.0",
   "description": "Progress indicators and spinners for React Native using ReactART",
   "main": "index.js",
