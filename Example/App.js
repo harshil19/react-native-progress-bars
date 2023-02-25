@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import * as Progress from 'rn-progress-bars';
+import * as Progress from 'react-native-progress-bars';
 
 const styles = StyleSheet.create({
   container: {

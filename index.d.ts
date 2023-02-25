@@ -1,4 +1,4 @@
-declare module 'rn-progress-bars' {
+declare module 'react-native-progress-bars' {
   import React from 'react';
   import { TextStyle, ViewProperties } from 'react-native';
 

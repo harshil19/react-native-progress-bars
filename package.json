@@ -1,5 +1,5 @@
 {
-  "name": "rn-progress-bars",
+  "name": "react-native-progress-bars",
   "version": "1.0.0",
   "description": "Progress indicators and spinners for React Native using ReactART",
   "main": "index.js",
@@ -26,13 +26,13 @@
     "animation"
   ],
   "author": "harshil <harshilpanchal1998@gmail.com>",
-  "homepage": "https://github.com/harshil19/rn-progress-bars",
+  "homepage": "https://github.com/harshil19/react-native-progress-bars",
   "bugs": {
-    "url": "https://github.com/harshil19/rn-progress-bars/issues"
+    "url": "https://github.com/harshil19/react-native-progress-bars/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harshil19/rn-progress-bars.git"
+    "url": "git+https://github.com/harshil19/react-native-progress-bars.git"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
